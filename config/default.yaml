@@ -1,0 +1,27 @@
+dataset_params:
+  root_dir: 'data'
+
+model_params:
+  n_heads: 8
+  head_dim: 64
+  emb_dim: 128
+  attn_drop: 0.1
+  ff_dim: 256
+  ff_drop: 0.1
+  n_layers: 6
+  bg_classes: 44
+  num_classes: 10
+  image_height: 224
+  image_width: 224
+  patch_height: 16
+  patch_width: 16
+  patch_emb_drop: 0.1
+  im_channels: 3
+
+train_params:
+  task_name: 'default'
+  batch_size: 64
+  epochs: 100
+  lr: 0.001
+  seed: 1111
+  ckpt_name: 'vit_ckpt.pth'

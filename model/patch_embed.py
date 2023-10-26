@@ -42,7 +42,11 @@ class PatchEmbedding(nn.Module):
         patch_dim = im_channels * self.patch_height * self.patch_width
         
         self.patch_embed = nn.Sequential(
+            # This pre and post layer norm speeds up convergence
+            # Comment them if you want pure vit implementation
+            nn.LayerNorm(patch_dim),
             nn.Linear(patch_dim, emb_dim),
+            nn.LayerNorm(emb_dim)
         )
         
         # Positional information needs to be added to cls as well so 1+num_patches
