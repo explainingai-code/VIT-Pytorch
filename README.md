@@ -3,7 +3,7 @@ Vision Transformer (VIT) Implementation in pytorch on mnist images on textures
 
 This repository implements Vision transformer on a synthetic dataset of mnist colored numbers on textures/solid background .
 
-## Vision Transformer Videos
+## My Vision Transformer Videos
 [Patch Embedding Video](https://www.youtube.com/watch?v=lBicvB4iyYU) 
 
 [Attention Block Video](https://www.youtube.com/watch?v=zT_el_cjiJw)
