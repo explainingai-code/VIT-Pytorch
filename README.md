@@ -1,7 +1,7 @@
 Vision Transformer (VIT) Implementation in pytorch on mnist images on textures
 ========
 
-This repository implements DallE-1 on a synthetic dataset of mnist colored numbers on textures/solid background .
+This repository implements Vision transformer on a synthetic dataset of mnist colored numbers on textures/solid background .
 
 ## Vision Transformer Videos
 [Patch Embedding Video](https://www.youtube.com/watch?v=lBicvB4iyYU) 
@@ -63,7 +63,11 @@ During inference the following output will be saved
 
 Following is a sample attention map that you should get
 
+<img src="https://github.com/explainingai-code/VIT-Pytorch/assets/144267687/76d63318-478f-41aa-a321-e907c29e26fb" width="300">
+
 Here is a positional embedding similarity plot you should get
+
+<img src="https://github.com/explainingai-code/VIT-Pytorch/assets/144267687/0ba9afa7-1d5d-4cbc-8b9d-0a4367e9f9ed" width="300">
 
 
 
