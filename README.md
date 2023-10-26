@@ -13,7 +13,7 @@ This repository implements Vision transformer on a synthetic dataset of mnist co
 
 Sample from dataset
 
-<img src="https://github.com/explainingai-code/DallE/assets/144267687/57e3c091-4600-401d-a5a4-52ea5fda3249" width="300">
+<img src="https://github.com/explainingai-code/VIT-Pytorch/assets/144267687/6a60022e-b6f6-4037-9839-c62fa7cabaf2" width="300">
 
 
 ## Data preparation
