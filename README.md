@@ -5,16 +5,15 @@ This repository implements [Vision Transformer](https://arxiv.org/abs/2010.11929
 
 ## Vision Transformer Videos
 <a href="https://www.youtube.com/watch?v=lBicvB4iyYU">
-   <img alt="PatchEmbedding" src="https://github.com/explainingai-code/VIT-Pytorch/assets/144267687/37fdd448-9c3d-4d0a-9410-249839e763dd"
+   <img alt="PatchEmbedding" src="https://github.com/explainingai-code/VIT-Pytorch/assets/144267687/e8eef8af-2670-48c5-8825-8465d2c38ec0"
    width="300">
 </a><a href="https://www.youtube.com/watch?v=zT_el_cjiJw">
-   <img alt="Attention Block" src="https://github.com/explainingai-code/VIT-Pytorch/assets/144267687/13ee37ba-f45d-47ef-ba0e-9b8efe9d91ab"
+   <img alt="Attention Block" src="https://github.com/explainingai-code/VIT-Pytorch/assets/144267687/beaef101-c918-485c-aa71-9b1cb41ded50"
    width="300">
 </a><a href="https://www.youtube.com/watch?v=G6_IA5vKXRI">
-   <img alt="Building Vision Transformer" src="https://github.com/explainingai-code/VIT-Pytorch/assets/144267687/2fecc360-d94f-4b2b-981d-7497d20edb7e"
+   <img alt="Building Vision Transformer" src="https://github.com/explainingai-code/VIT-Pytorch/assets/144267687/29e9c030-7a23-4ce3-b78d-46a5029e6fcd"
    width="300">
 </a>
-
 
 
 ## Sample from dataset
